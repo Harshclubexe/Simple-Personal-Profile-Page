@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>[Your Name]</h1>
+        <h2>Aspiring Web Developer</h2>
+    </header>
+    <section class="about">
+        <h3>About Me</h3>
+        <p>I'm a beginner learning **HTML** and **CSS** to start my journey in web development. I enjoy building small, structured projects to practice new concepts. This simple profile page is my first step!</p>
+    </section>
+    <section class="skills">
+        <h3>Basic Skills</h3>
+        <ul>
+            <li>HTML (Structure & Semantics)</li>
+            <li>CSS (Basic Styling & Layout)</li>
+            <li>GitHub (Version Control Basics)</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2025 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
